@@ -1,5 +1,5 @@
 import { Schema, model } from 'mongoose';
-
+//criando o modelo de produtos
 const ProductShema = new Schema({
   name: {
     type: String,

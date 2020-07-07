@@ -19,3 +19,5 @@ gir commit -m "com msg"
 git commit --amend -m "sobrescre um ultimo comentatio"
 
 git checkout -b "criar um branch"
+
+git merge AdcionaPutAPI == adciona uma branch ao master
