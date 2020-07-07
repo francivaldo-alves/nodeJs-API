@@ -52,7 +52,7 @@ class CategoryController {
     }
     await category.delete();
 
-    return res.status(204).send();
+    return res.status(204).send('ddddd');
   }
 }
 export default new CategoryController();
