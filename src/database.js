@@ -1,5 +1,5 @@
 import mongoose from 'mongoose';
-
+//conexao com banco de dados
 class Database {
   constructor() {
     this.init();

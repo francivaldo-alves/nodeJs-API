@@ -1,0 +1,17 @@
+git init (inicializa o versionamento)
+
+
+
+git add * ( tranfere todos os arquivos parar area remota)
+
+
+git -A ( tranfere todos os arquivos modificados)
+
+
+git add * .js (tranfere todos os arquivos de uma extensao para index)
+
+git status
+
+git commit (addcionar ao repositorio local)
+
+gir commit -m "com msg"
