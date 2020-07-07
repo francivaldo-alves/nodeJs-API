@@ -1,4 +1,5 @@
 import mongoose from 'mongoose';
+// ---fffff
 
 //import variaveis do sistema
 require('dotenv').config();
