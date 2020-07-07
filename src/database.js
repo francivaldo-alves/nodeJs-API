@@ -1,4 +1,6 @@
 import mongoose from 'mongoose';
+
+//import variaveis do sistema
 require('dotenv').config();
 
 //conexao com banco de dados
