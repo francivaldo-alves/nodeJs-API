@@ -15,3 +15,7 @@ git status
 git commit (addcionar ao repositorio local)
 
 gir commit -m "com msg"
+
+git commit --amend -m "sobrescre um ultimo comentatio"
+
+git checkout -b "criar um branch"
